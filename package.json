@@ -1,0 +1,21 @@
+{
+  "name"         : "sample-search",
+  "version"      : "0.0.0",
+  "description"  : "Simple twitter serach application.",
+  "main"         : "server.js",
+  "author"       : "Jota",
+  "dependencies" : {
+    "express" : "~4.0.0", 
+    "request": "2.9.x",          
+    "mongoose" : "~3.8.1",      
+    "passport" : "~0.1.17",               
+    "passport-twitter" : "~1.0.2",  
+    "passport-google-oauth" : "~0.1.5",    
+    "bcrypt-nodejs" : "latest",
+    "morgan": "~1.0.0",
+    "body-parser": "~1.0.0",
+    "cookie-parser": "~1.0.0",
+    "method-override": "~1.0.0",
+    "express-session": "~1.0.0"
+  }
+}
