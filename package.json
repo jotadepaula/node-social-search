@@ -15,8 +15,9 @@
     "morgan": "~1.0.0",
     "body-parser": "~1.0.0",
     "cookie-parser": "~1.0.0",
-    "isntagram-node": "latest",
+    "instagram-node": "latest",
     "twitter-node": "latest",
+    "node-rest-client": "latest",
     "method-override": "~1.0.0",
     "express-session": "~1.0.0"
   }
