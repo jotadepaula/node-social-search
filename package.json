@@ -6,6 +6,9 @@
   "author"       : "Jota",
   "dependencies" : {
     "express" : "~4.0.0", 
+    "express-session": "1.9.1",
+    "http" : "latest", 
+    "cookie-parser": "1.3.3",
     "request": "2.9.x",          
     "mongoose" : "~3.8.1",      
     "passport" : "~0.1.17",               
@@ -16,9 +19,9 @@
     "body-parser": "~1.0.0",
     "cookie-parser": "~1.0.0",
     "instagram-node": "latest",
+    "fbgraphapi": "latest",
     "twitter-node": "latest",
     "node-rest-client": "latest",
-    "method-override": "~1.0.0",
-    "express-session": "~1.0.0"
+    "method-override": "~1.0.0"    
   }
 }
